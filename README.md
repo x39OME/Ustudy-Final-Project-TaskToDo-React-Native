@@ -1,4 +1,11 @@
-# Ustudy Final Project Task To-Do React Native
+# Ustudy Final Project Task To-Do React Native\
+
+## Preview
+
+- Home
+
+<img src="./task-to-do-ustudy.jpg" style="task-to-do">
+<img src="./task-to-do-ustudy-using-react-native.png" style="task-to-do">
 
 ### Task To Do
     
@@ -11,4 +18,3 @@
 - npm start
 - npm start -w
 
-<img src="./task-to-do-ustudy-using-react-native.png" style="task-to-do">
